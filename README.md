@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/akash22675/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/akash22675/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="35px" target="_blank"></a>
+  <a href="https://leetcode.com/akash22675/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="35px" target="_blank"></a>
   
 </div>
 
