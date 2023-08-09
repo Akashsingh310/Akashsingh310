@@ -30,6 +30,8 @@
   <a href="https://www.linkedin.com/in/akash22675/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/https://leetcode.com/akash22675/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="35px" target="_blank"></a>
+  
 </div>
 
 ###
@@ -41,3 +43,6 @@
 <img align="right" height="142" src="https://media2.giphy.com/media/1XL1heNzoMWSA/giphy.gif?cid=ecf05e47xh138894k44djevtl9sevde05fvimwc2k48nbyq7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsingh310&show_icons=true&locale=en" alt="akashsingh310" /></p>
